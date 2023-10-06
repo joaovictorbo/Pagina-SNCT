@@ -1,0 +1,71 @@
+/* Set font family to 'Fontes' */
+body {
+    font-family: 'Fontes', sans-serif;
+}
+
+/* Set font styles for different headings and text */
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Inter', serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Inter', serif;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Inter', serif;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Inter', serif;
+}
+
+h5 {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Inter', serif;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Inter', serif;
+}
+
+h7 {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Inter', serif;
+}
+
+.b1 {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Inter', serif;
+}
+
+.b2 {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Inter', serif;
+}
+
+.b3 {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Inter', serif;
+}
+
+.b4 {
+    font-size: 14px;
+    font-weight: normal;
+    font-family: 'Inter', serif;
+}
